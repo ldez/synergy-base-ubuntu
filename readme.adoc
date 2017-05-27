@@ -1,0 +1,3 @@
+= Synergy base Ubuntu
+
+Docker image use by link:https://github.com/ldez/synergy-binaries[synergy-binaries] to make Ubuntu/Debian binaries of link:https://github.com/symless/synergy[Synergy].
